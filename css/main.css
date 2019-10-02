@@ -38,13 +38,14 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.1em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .9em;
+    font-size: 1.0em;
 }
 
 ul.posts { 
