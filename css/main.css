@@ -38,21 +38,21 @@ footer ul li {
     font-size : 0.8em; 
 }
 
-a {
+a.one {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-a:hover {
+a.one:hover {
      background-color: #111;
 }
-b {
+a.two {
     text-decoration: none;
     color: #999;
 }
-b:hover {
+a.two:hover {
     text-decoration: underline;
 }
 h1 {
