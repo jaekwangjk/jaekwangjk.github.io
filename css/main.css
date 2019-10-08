@@ -12,13 +12,13 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    background-color: #BBDEFB;
 }
 
 nav ul li{
     display: inline;
     margin-right: 20px;
     font-size : 1.5em; 
-    background-color: #BBDEFB;
 }
 
 footer ul li {
