@@ -48,6 +48,13 @@ a {
 a:hover {
      background-color: #111;
 }
+b {
+    text-decoration: none;
+    color: #999;
+}
+b:hover {
+    text-decoration: underline;
+}
 h1 {
     font-size: 1.3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
