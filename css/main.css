@@ -15,7 +15,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #eee;
+    background-color: #111;
 }
 
 footer ul {
@@ -46,7 +46,7 @@ a.one {
   text-decoration: none;
 }
 a.one:hover {
-     background-color: #111;
+     background-color: #eee;
 }
 a.two {
     text-decoration: none;
