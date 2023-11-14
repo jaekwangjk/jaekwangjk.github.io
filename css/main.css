@@ -14,7 +14,8 @@ body {
 */
 
 div {
-    style="background-color: #92a8d1"
+    /*style="background-color: #92a8d1"   November 14, 2023*/
+    style="background-color: #00002E
 }
 
 nav ul {
@@ -117,7 +118,8 @@ footer {
 }
 
 .rounded {
-  background-color: #bdf;
+  color:#6098FF;  
+  background-color: #00002E;
   border:2px solid #1bf;
   padding:0.5em;
   line-height: 1em;
