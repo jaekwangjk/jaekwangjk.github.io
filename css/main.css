@@ -69,8 +69,8 @@ a.two:hover {
 
 /*======= New Button style Begin =======*/
 a.three{
-  padding: 15px 16px;
-  margin:10px 4px;
+  padding: 14px 16px;
+  margin:10px 3px;
   color: #fff;
   font-family: sans-serif;
   text-transform: uppercase;
@@ -78,7 +78,6 @@ a.three{
   position: relative;
   text-decoration: none;
   display:inline-block;
-  
 }
 
 a.three::before{
@@ -100,15 +99,6 @@ transition: all .3s
 a.three:hover{
   color:#6098FF;  
 }
-.btn2:hover::before{
-  opacity: 1;
-  background-color: #fff;
-  -webkit-transform: scaleY(1);
-  transform: scaleY(1);
-  transition: -webkit-transform .6s cubic-bezier(.08, .35, .13, 1.02), opacity .4s;
-  transition: transform .6s cubic-bezier(.08, .35, .13, 1.02), opacity
-}
-
 /*======= Button style [End] =======*/
 
 h1 {
