@@ -118,7 +118,10 @@ footer {
 }
 
 .rounded {
-  color:#6098FF; 
+  /*color:#6098FF;  Blue coor */
+
+  *color:#ffffff
+
   /*background-color: #00002E; dark black */
   background-color:#1bf;
   border:1px solid #1bf;
